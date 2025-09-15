@@ -4,6 +4,6 @@ This is a basic machine learning Naive Bayes text classifier built from scratch 
  - Compared results against scikit-learn’s MultinomialNB implementation
  - Data preprocessing: tokenization, vocabulary construction, and feature extraction
  - Posterior probability calculation for predictions
- - Evaluation using accuracy and Kaggle submission (score: [0.90, 0.94))
+ - Evaluation using accuracy and Kaggle submission (performance score: [0.90, 0.94))
 
 All code is runnable within a single Jupyter notebook. Load the training and test CSVs (provided) and run the notebook to reproduce results and analyses. 
